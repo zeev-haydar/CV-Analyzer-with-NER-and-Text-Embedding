@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Python packaging
+*.tar.gz
+*.whl
+
+# Test outputs
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.log
+
+# PyInstaller
+*.spec
