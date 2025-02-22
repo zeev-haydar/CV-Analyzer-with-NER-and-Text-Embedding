@@ -110,7 +110,7 @@ class IndonesianCVMatcher():
 
       skill_patterns = [
         r'(?i)(?:ahli|mampu|menguasai|berpengalaman dalam)\s+([\w\s]+)',
-        r'(?i)(?:keahlian|kemampuan|keterampilan)[\s:]+([^.]+)',
+        r'(?i)(?:keahlian|kemampuan|keterampilan)[:]+([^.]+)',
         r'(?i)(?:sertifikasi|sertifikat)\s+([\w\s]+)',
         r'(?i)pengalaman\s+(?:dengan|dalam)\s+([\w\s]+)',
       ]

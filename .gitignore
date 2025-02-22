@@ -41,3 +41,4 @@ coverage.xml
 
 # PyInstaller
 *.spec
+model_weights.zip
